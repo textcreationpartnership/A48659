@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at the funeral of Mrs. Ann Margetson, a young lady, under the age of fourteen years In the church of Clerkenwell: on Sunday, November the 12th. 1693. By Ralph Lambert, chaplain to the Right Honourable, the Earl of Montague, and his lady, Her Grace, the Dutchess of Albemarle; and rector of Grindon in Staffordshire.</title>
+            <author>Lambert, Ralph, 1665?-1731.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48659</idno>
+            <idno type="STC">Wing L243A</idno>
+            <idno type="STC">ESTC R222009</idno>
+            <idno type="EEBO-CITATION">99833248</idno>
+            <idno type="PROQUEST">99833248</idno>
+            <idno type="VID">37723</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48659)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37723)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2172:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at the funeral of Mrs. Ann Margetson, a young lady, under the age of fourteen years In the church of Clerkenwell: on Sunday, November the 12th. 1693. By Ralph Lambert, chaplain to the Right Honourable, the Earl of Montague, and his lady, Her Grace, the Dutchess of Albemarle; and rector of Grindon in Staffordshire.</title>
+                  <author>Lambert, Ralph, 1665?-1731.</author>
+               </titleStmt>
+               <extent>[6], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Peter Buck at the sign of the Temple, near the Inner-Temple-Gate in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy cropped at head with loss of print and pagination; tightly bound.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Margetson, Ann, d. 1693 --  Sermons --  Early works to 1800.</term>
+               <term>Bible. --  O.T. --  Ezekiel XXIV, 15-16 --  Sermons --  Early works to 1800.</term>
+               <term>Funeral sermons --  17th century.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37723:1"/>
+            <pb facs="tcp:37723:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd at the FUNERAL OF Mrs. <hi>Ann Margetſon,</hi> A Young LADY, under the Age of Fourteen Years.</p>
+            <p>IN THE Church of <hi>Clerkenwell:</hi> ON Sunday, November the 12th. 1693.</p>
+            <p>By <hi>RALPH LAMBERT,</hi> Chaplain to the Right Honourable, the Earl of <hi>Montague,</hi> and His Lady, Her Grace, the Dutcheſs of <hi>Albemarle;</hi> and Rector of <hi>Grindon</hi> in <hi>Staffordſhire.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Peter Buck</hi> at the Sign of the <hi>Temple,</hi> near the <hi>Inner-Temple-Gate</hi> in <hi>Fleetſtreet,</hi> 1693.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:37723:2"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>November</hi> 24. 1693.</date>
+               </dateline>
+               <signed>Guil. Lancaſter.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:37723:2"/>
+            <head>TO THE HONOURABLE ALICE MARGETSON.</head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>IT is not without good reaſon, that I preſume to addreſs this Sermon to Your Ladyſhip, though it be the meaneſt Offering that could be made, to the Memory of your deceaſed Daughter. All that is exhortatory in it, will more nearly concern your Ladyſhip than it can any other: Though I confeſs, 'tis an unwarrantable Aſſurance to imagine, That your Ladyſhip ſhould regard ſuch weak Argu<g ref="char:EOLhyphen"/>ments from me; who, in ſo many Occurrences of your Life, have been the higheſt Inſtance and Ar<g ref="char:EOLhyphen"/>gument of Religious Patience.</p>
+            <p>You know, <hi>Madam,</hi> that this Diſcourſe was made publick firſt in the Pulpit, and now in the Preſs; by their Solicitation; whom I could neither with good Manners, nor good Nature deny; though
+<pb facs="tcp:37723:3"/>I am ſenſible how much it will expoſe me. It is true, this is but a miſerable Excuſe for Printing ſo poor a Trifle; yet I am confident, that your La<g ref="char:EOLhyphen"/>dyſhip (to whom I think my ſelf chiefly accountable in this Caſe) will allow it for reaſonable. I am afraid it will as little prevail with my Reader for a favourable Reception, to tell him that it was begun, and finiſh'd in a piece of a Night: and at a Time, when my thoughts were under very great Diſadvantages, from a moſt ſenſible Concern, for the Loſs of ſo good and valuable a Friend. As your Ladyſhip knows the Truth, ſo I doubt not, you will grant the Equity of this Apology, and allow it as an Extenuation of its Defects; for others, I ex<g ref="char:EOLhyphen"/>pect to be told that the haſty Birth ſhould as haſtily have expired, and died immediately after the De<g ref="char:EOLhyphen"/>liverance. Perhaps, I am much of the ſame Opi<g ref="char:EOLhyphen"/>nion my ſelf; but ſince I am much of the ſame Opi<g ref="char:EOLhyphen"/>nion my ſelf; but ſince I am aſſur'd by ſome, and thoſe no incompetent Judges, that the Sermon may be tolerable in the Peruſal, and poſſibly, not wholly unprofitable; I chuſe rather to believe them impli<g ref="char:EOLhyphen"/>citly, and ſo to comply with the Deſires of ſeveral, who would have it Publick, than to be guilty of perhaps, a leſs pardonable Vanity; that I ſhould fanſie it worth any one's while, but eſpecially, ſome of good Senſe, and much Honour, to Flatter me.</p>
+            <pb facs="tcp:37723:3"/>
+            <p>The Subject I am ſure, needs no Defence for be<g ref="char:EOLhyphen"/>ing Publiſh'd; and had it met with one capable of doing it Juſtice in the Inlargement, ought not in Reaſon or Charity, to be Suppreſs'd. As it is, I hope it may be <g ref="char:V">Ʋ</g>ſefull to ſome of Your Excellent Daughters, Young Relations, (Your Surviving Daughter particularly) who may be won to a con<g ref="char:EOLhyphen"/>ſtant Perſeverance in the Ways of Religion and Virtue, by having ſo Freſh, and ſo Extraordinary an Example in their own Family.</p>
+            <p>I can hardly fear ſo ill an Effect from this, as that of making Your Ladyſhips Wound Bleed anew: For as it gives but a very imperfect Idea of Your unſpeakable Loſs, ſo I think it carries with it a lit<g ref="char:EOLhyphen"/>tle of the Weapon-ſalve Virtue, and if it Wound, it may Heal too. At leaſt it ſhould give Your Lady<g ref="char:EOLhyphen"/>ſhip ſome Comfort to remember, That You have gi<g ref="char:EOLhyphen"/>ven to the Choire of Heaven, an Eminent, Glorious Saint, and to Earth, one of its moſt perfect Pat<g ref="char:EOLhyphen"/>terns: And that, under the Age of Fourteen Years, and in the midſt of all the Temptations of a very Vain, and Deceitful World.</p>
+            <p>So ſublime a Theme, thus meanly handled, will very much need Your Ladyſhip's Pardon, and it will I hope, be ſome Plea for it, that I was not a willfull Offender: However, it is ſome Satisfaction <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o me, thus to own the great Obligations that I
+<pb facs="tcp:37723:4"/>have to Your Ladyſhip's Family, under whoſe Pa<g ref="char:EOLhyphen"/>tronage I firſt entred upon the Duties of my Fun<g ref="char:EOLhyphen"/>ction; and to whom, I ſhall think my ſelf Happy to be any way Serviceable: And if my Capacities muſt be always Limited, nothing ſhall ſet Bounds to the heartieſt Wiſhes, and moſt fervent Prayers, of theirs, and</p>
+            <closer>
+               <signed>Your Ladyſhip's Moſt Humble and Obedient Servant, <hi>R. LAMBERT.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:37723:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>EZEKIEL XXIV. 15, 16.</hi>
+                  </bibl>
+                  <p>Alſo the word of the Lord came unto me, ſaying,</p>
+                  <p>Son of man, behold, I take away from thee the deſire of thine eyes with a ſtroke: yet neither ſhalt thou mourn nor weep, neither ſhall thy tears run down.</p>
+               </q>
+            </epigraph>
+            <p>IF ever it were neceſſary to ſtay the violence of humane Paſſions, and ſtop a flood of Tears, which otherwiſe cannot but flow from the impreſſion of a ſtroke ſo ſudden, and heavy as the loſs of the Lady, who now lies here before us.</p>
+            <p>If to be unexpectedly robb'd of the deſire of our Eyes, one whom every Soul which knew, did love moſt paſſionately, does need all the arts of perſwaſion, to furniſh us with Submiſſion and Patience. In a word,</p>
+            <pb n="2" facs="tcp:37723:5"/>
+            <p>If the taking away one of the moſt perfect works of the God of Nature, at a time, when God and Nature had made her the moſt delightful and deſirable, does extort all the powers of pious eloquence, to move us to reſignation; Then, I preſume, I have pitch'd upon a Subject, which muſt on this ſad occaſion, be more pertinent, and ſeaſonable, than any other.</p>
+            <p>To all that knew her, I am ſure it muſt be ſo; to thoſe who did not, I am confident, that feeble, diſproportion'd Character, which even in this hurry, and diſtraction of thoughts, I ſhall endeavour to give of her virtues, will make them judge it proper, convenient and reaſonable.</p>
+            <p>We have loſt <hi>the deſire of our eyes,</hi> by a fatal, ſurprizing ſtroke of providence: but ſince an all-wiſe Providence has given it, we muſt neither <hi>mourn, nor weep, nor muſt our tears run down,</hi>
+            </p>
+            <p>To diſcourſe in ſome method on theſe words, I ſhall endeavour theſe three things,</p>
+            <list>
+               <item>I. <hi>Firſt,</hi> To give you the full ſcope, meaning, and intention of them.</item>
+               <item>II. I ſhall ſhew in general, that tho the deſire of our eyes, all that our ſouls pant and languiſh after, be taken away by a ſtroke of divine Ju<g ref="char:EOLhyphen"/>ſtice, yet it is our duty not to repine or grieve im<g ref="char:EOLhyphen"/>moderately,</item>
+               <pb n="3" facs="tcp:37723:5"/>
+               <item>III. I ſhall, in the third and laſt place, by a particular application to the ſubject before us, ſhew, what violent temptations we have to un<g ref="char:EOLhyphen"/>bounded ſorrow, if the ſpirit of God had not by this caution forbid us to <hi>lament or mourn, or that our tears ſhould run down.</hi> And firſt,</item>
+            </list>
+            <p n="1">1. For the due explaining of the words, it is neceſſary to have recourſe to the occaſion of them. Which was this:</p>
+            <p>The Prophet <hi>Ezekiel</hi> had it in charge, to de<g ref="char:EOLhyphen"/>nounce God's juſt and terrible judgments againſt the ſtiff-neck'd, rebellious Jews: whom he warns of their approaching vengeance, by many ſignifi<g ref="char:EOLhyphen"/>cant, but myſterious ſymbols: and 'tis probable, that they perſiſting impenitent, the pious Pro<g ref="char:EOLhyphen"/>phet was tired out with making ſo many and ſo fruitleſs addreſſes to them: and therefore might with ſome reluctance, continue the task of ineffectual preaching, which God had laid upon him; and perhaps like <hi>Jonas,</hi> did fear, ra<g ref="char:EOLhyphen"/>ther the peoples fury againſt himſelf, than that a Mercifull God, would perfect the judgments which he was to declare againſt them; and as it ſhould ſeem, he was touch'd with an unwar<g ref="char:EOLhyphen"/>rantable compaſſion, towards his obſtinate, and utterly rejected Countrymen.</p>
+            <p>Now it pleas'd God to bring him to a perfect,
+<pb n="4" facs="tcp:37723:6"/>and obedient ſenſe of his duty, by inflicting a ſud<g ref="char:EOLhyphen"/>den and ſevere judgment upon him; to make him perſervere in a ready exerciſe of his prophetick office. His Wife, <hi>the deſire of his eyes, is taken away by a ſtroke;</hi> and to make it at once a Judg<g ref="char:EOLhyphen"/>ment, and a Prophecy, he is neither <hi>to mourn nor weep, nor give any other</hi> inſtance of ſorrow. So that the primary ſence, ſeems to be this. Becauſe, O ſon of Man, you have an irrational, and ground<g ref="char:EOLhyphen"/>leſs compaſſion for your degenerate Countrymen, therefore the word of the Lord comes unto you ſaying; I will puniſh you for endeavouring to ſpare thoſe, whom I have deſtin'd to deſtru<g ref="char:EOLhyphen"/>ction. I will take away the Wife of your boſom, the beloved of your ſoul, with a ſtroke; with a ſudden and unexpected execution; and as I do to her, ſo I determine to do to the ſtiff-neck'd Jews; but neither for her nor for them, ſhall <hi>you weep or mourn, or ſhall your tears run down.</hi> This I take to be the firſt and literal intention of the Words.</p>
+            <p>But becauſe it is uſual with the ſpirit of God, beſides the literal and immediate ſenſe which the words of a Prophecy import, to contain under them a myſtical, or a moral ſence, relating either to the coming of Chriſt, or to ſome religious duty thereby injoyn'd us to be perform'd: I ſhall venture to give you one inſtance of the firſt, and
+<pb n="5" facs="tcp:37723:6"/>then ſhew, that the words of my text are a plain evidence of the latter.</p>
+            <p>That beſides the direct ſence, and firſt intention of a prophecy, it does ſometimes include a My<g ref="char:EOLhyphen"/>ſtical ſence, more agreeable to its natural import than the other: I ſhall produce that celebrated Pro<g ref="char:EOLhyphen"/>phecy of <hi>Iſa.</hi> 7.14. <hi>Behold a virgin ſhall con<g ref="char:EOLhyphen"/>ceive,</hi> &amp;c. The Occaſion of this Prophecy was King <hi>Ahaz</hi>'s dread of the Kings of <hi>Syria</hi> and <hi>Iſrael,</hi> and diſtruſting of God for his deliverance from them. But the Prophet gives him a ſign of God's intenti<g ref="char:EOLhyphen"/>ons to deliver him: viz. <hi>A virgin ſhall conceive,</hi> &amp;c. Now 'tis plain, the Words muſt in their im<g ref="char:EOLhyphen"/>mediate ſence, referr to ſomething which ſhould come to paſs very ſhortly; otherwiſe, how could they be on aſſurance to <hi>Ahaz</hi> of a ſpeedy delive<g ref="char:EOLhyphen"/>rance? It could not import him, that the <hi>Meſſias</hi> ſhould be born of a Virgin about 700 years after: but allowing the firſt intended ſence to be, that before one who is now a Virgin, can conceive and bear a ſon, and that ſon know how to refuſe the evil, and chooſe the good, God will deliver <hi>Ahaz.</hi> Then it evidently carries along with it, a Myſti<g ref="char:EOLhyphen"/>cal, prophetick ſence, of the <hi>Meſſiah</hi> to be born of a Virgin, ſo long time afterwards.</p>
+            <p>And thus, the Words of my Text, tho' they pri<g ref="char:EOLhyphen"/>marily import, that the Prophet ſhould loſe his Wife,
+<pb n="6" facs="tcp:37723:7"/>and the Jews ſuffer vengeance for their ſins; and that by reaſon of his error, and their obſtinacy, he was to lament for neither. They do beſides this, con<g ref="char:EOLhyphen"/>tain a moſt profitable and neceſſary Injunction, and which is the genuine meaning of them, no leſs than the other; and that is, that though it pleaſe God to take away <hi>the Deſire of our Eyes, all that is</hi> moſt dear and valuable to us upon Earth, and that with a Stroak, with a ſuprizing, unuſual Effect of his Wiſe Providence, yet we <hi>muſt neither mourn, nor weep, neither muſt our Tears run down.</hi> That is, we muſt not ſuffer our ſelves to be ſo carried away by the Impetuouſneſs of our Paſſions, or the Reſentment of our Loſs, as to murmur or repine againſt the Almighty; forget his Dominion and Soveraignty over us; find fault with the Diſpenſations of his Providence, or do any thing elſe, which may give the leaſt cauſe of Suſpicion, that we do not intirely reſign our ſelves to every Effect of his infinite Wiſdom and Power. And thus I have endeavoured to give you the full Importance and Meaning of the Words.</p>
+            <p n="2">II. I come now in the Second Place, to ſhew you the Reaſonableneſs of the Duty; that though the Deſire of our Eyes, all that our Souls Pant, and Languiſh after, be taken away by a Stroke of Di<g ref="char:EOLhyphen"/>vine Providence, yet it is our indeſpenſible Duty (in
+<pb n="7" facs="tcp:37723:7"/>general) not to repine or grieve Immoderately.</p>
+            <p>And here, I might Proceed to ſhew, upon what Foundation, this intire Subjection to the Will of Heaven, does depend: That when we Conſider the unlimited Power and Dominion, which the Almighty has over us, and every thing to us be<g ref="char:EOLhyphen"/>longing, as he is our Creatour and Governour, our Redeemer and Preſerver; as he is the Sove<g ref="char:EOLhyphen"/>reign Diſpoſer of all the Works of his own Crea<g ref="char:EOLhyphen"/>tion, we ought never to be uneaſie, however in<g ref="char:EOLhyphen"/>ſupportable we may fanſie any Evil that befalls us. Had it pleas'd him to make our whole Life on Earth, one unallay'd Compoſition of all that we call bitter and tormenting; yet when we reflect, that it is the Work of the Omnipotent, and that he is accountable to none for his Actions; this one Conſideration ſhould ſuppreſs and ſtifle all the Clamours, that peeviſh humane Nature is apt in theſe Extremities, to ſend forth againſt its Maker. But we ſhould never repine, even at ſuch a con<g ref="char:EOLhyphen"/>tinued Scene of Sufferings, if we remember, that upon theſe Terms, Heaven is a great and happy Purchace, and to be one Moment there, is more than ſufficient Recompence for whole Ages of Mi<g ref="char:EOLhyphen"/>ſery. Where then is the leaſt ſhadow for immode<g ref="char:EOLhyphen"/>rate Grief or Murmuring, if never ending Ages of infinite Bliſs, be the Aſſurance, and Reward of
+<pb n="8" facs="tcp:37723:8"/>what is not comparatively one Moment of Pain<g ref="char:punc">▪</g>
+            </p>
+            <p>I might likewiſe here argue from the Wiſdom of God in the governing of the World, What an Abſurdity it were to give Vent to any of our unruly and unmanerly Paſſions, and ſuffer them to reproach God for the Effects of his Providence<g ref="char:punc">▪</g> who not only once by his Word made all things, but in the <hi>Pſalmiſt</hi>'s Phraſe, <hi>has made them conti<g ref="char:EOLhyphen"/>nually,</hi> i. e. Were his wiſe Influence one Mo<g ref="char:EOLhyphen"/>ment withdrawn, the World with all things in it, would immediately ceaſe to be: And ſince we are aſſur'd, that his Wiſdom is exerted in go<g ref="char:EOLhyphen"/>verning every particular Event and Action here below, it were the moſt irrational Madneſs in mortal Man, to controul <hi>the Wiſdom of his Ma<g ref="char:EOLhyphen"/>ker, and charge the Author of his Being and Preſer<g ref="char:EOLhyphen"/>vation, fooliſhly.</hi>
+            </p>
+            <p>I might deduce from every Attribute of God, moſt certain and infallible Arguments, for an ab<g ref="char:EOLhyphen"/>ſolute Submiſſion to his holy Will and Pleaſure; and ſhew from each of them, that no Evil, how intolerable ſoever we think it, can at all juſtify the rude, daring Out-cries of any Tongue or Heart againſt him, ſince he is Righteous in all his Ways, and Holy in all his Works: And that if we had only what we deſerve at his Hands, to us belongs nothing but Shame and Confuſion of
+<pb n="9" facs="tcp:37723:8"/>Face for ever. But I ſhall not inſiſt on theſe plain, and irreſiſtable Reaſonings from the Con<g ref="char:EOLhyphen"/>ſideration of God and his Attributes.</p>
+            <p>Nor ſhall I ſpend your Time, in expoſing the Vanity and Emptineſs of thoſe things, by the loſs of which we are pleas'd too often to make our ſelves Miſerable; ſuch as the Rich<g ref="char:EOLhyphen"/>es, Honours, and Preferments of this World, the Pleaſures of Senſe, and infinite other tran<g ref="char:EOLhyphen"/>ſitory Enjoyments, which we by luſting af<g ref="char:EOLhyphen"/>ter them, do make the Deſire of our Eyes, and buſie the Faculties of our Souls: It were eaſie from the very nature of theſe unſatisfy<g ref="char:EOLhyphen"/>ing, empty things, to ſhew, that it were the ex<g ref="char:EOLhyphen"/>tremeſt Folly, for the loſs of them, to Weep, or Mourn, or ſuffer our Tears to run down: But I chuſe rather as more pertinent to my Text, and ſuitable to this melancholy Occa<g ref="char:EOLhyphen"/>ſion, to inquire how far an immoderate Grief is juſtifiable, for the irreparable loſs of a Dear Friend, one that is truly the Deſire of our Eyes, and the Joy of our Hearts, the Partner of all our Enjoyments, and of all our Afflicti<g ref="char:EOLhyphen"/>ons, one endued with all the engaging good Qualities we would wiſh for, to ſettle our high<g ref="char:EOLhyphen"/>eſt Affections upon: (In a Word) one by the loſs of whom, we may juſtly ſay, we have loſt
+<pb n="10" facs="tcp:37723:9"/>the better, and dearer part of our ſelves. If a grief without bounds for ſuch a one as I here de<g ref="char:EOLhyphen"/>ſcribe, be utterly inexcuſable, then certainly it is ſo for any one, that we can ſuppoſe to die, and our ſelves to be ſufferers by their deaths. If we may be allow'd to afflict and torment our ſelves for any, it muſt be for thoſe, who leave the world, and their friends deſtitute of thoſe extraordinary accompliſhments which they own'd and made all others ſenſible of.</p>
+            <p>But alas, if we indeed fanſie that our departed friends were owners of thoſe excellent endow<g ref="char:EOLhyphen"/>ments which made them admired, and deſirable in the eyes of men: I mean ſuch men as are proper judges of what is excellent and what not; will we not allow the ſearcher of all hearts to diſtinguiſh thoſe qualities as well as we? Or ſhall we dare to re<g ref="char:EOLhyphen"/>pine, becauſe he has choſen what is fitteſt for him<g ref="char:EOLhyphen"/>ſelf? If God has endow'd them with ſuch graces as make them quickly ripe, and early prepared for Heaven; ſhall we envy him the fruits of his own in<g ref="char:EOLhyphen"/>finite bounty? and murmur becauſe he receives the intereſt and improvements of his own talents? This were, beſides the Preſumption, one of the moſt unreaſonable, and unjuſt quarrels againſt Heaven, that aſpiring man could think of to forfeit the protection of Almighty God, and ruine him<g ref="char:EOLhyphen"/>ſelf and his hopes withall.</p>
+            <pb facs="tcp:37723:9"/>
+            <p>Shall we arrogantly expoſtulate with God, becauſe he has taken out of this vale of ſin and miſery, one that himſelf had qualified to add to the number of the Heavenly Choir, and to ſing everlaſting <hi>Hallelujahs</hi> before the Throne of Infinite Purity? I ſuppoſe, if the queſtion were fairly ſtated to every immoderate Mour<g ref="char:EOLhyphen"/>ner, whether they grieve, becauſe the friend they have loſt is more happy, than 'tis poſſible he or ſhe could be upon Earth; I think none would venture to talk ſo in<g ref="char:EOLhyphen"/>conſiſtently of Friendſhip it ſelf, as to anſwer in the affirmative: But would (if they have any ſenſe of the joys of ano<g ref="char:EOLhyphen"/>ther Life) readily own, that their ſor<g ref="char:EOLhyphen"/>row proceeds from ſome other motive; and they durſt not reflect ſo unthankful<g ref="char:EOLhyphen"/>ly on Heaven, nor wiſh ſo injuriouſly to their Friend. So that they can own no real ſpring of immoderate grief, to come from any change that has happen'd to the perſon, they ſo dearly lov'd. It muſt therefore flow from the alteration, that is come to themſelves; that they have loſt ſomewhat which poſſibly might have made them more happy, and their life
+<pb n="12" facs="tcp:37723:10"/>more comfortable; and this is the moſt uſual and trueſt original of all our grief; but let it not be call'd a grief for a depart<g ref="char:EOLhyphen"/>ed friend, but an indecent fondneſs of ſurviving ſelf: It all undoubtedly pro<g ref="char:EOLhyphen"/>ceeds from the conſideration of our own particular happineſs, and can be aſcrib'd to no other, than the worſt of all paſſions, that of ſelf-love. We love our ſelves ſo wonderfully well, that we cannot be ſa<g ref="char:EOLhyphen"/>tisfied, our friend ſhould gain, even infi<g ref="char:EOLhyphen"/>nite happineſs, by our loſs. This, and no other is the genuine interpretation of all violent ſorrow, where we ſuppoſe the deceas'd perſon, happy: And how far this is lamenting for a friend and not in<g ref="char:EOLhyphen"/>dulging a moſt inexcuſable paſſion, let who will judg: I know, where the ſtream of ſorrow runs with a full current, 'tis in vain to oppoſe Counſel, whilſt the Floodgates are open: Paſſions are deaf to all manner of arguments, and not in this only, but in every other ſtrong inordi<g ref="char:EOLhyphen"/>nate emotion of the Soul, one may as lit<g ref="char:EOLhyphen"/>tle expect to compoſe it, while the pa<g ref="char:EOLhyphen"/>roxiſm laſts, as to ſilence and calm a tempeſtuous Sea with Syllogiſms. But
+<pb n="13" facs="tcp:37723:10"/>let it have leaſure to recollect, to conſi<g ref="char:EOLhyphen"/>der when the hurry and diſorder is over, and it cannot but aſſent to the truth of this ſelf-evident Aſſertion, That who<g ref="char:EOLhyphen"/>ever believes his friend infinitely happy, by a change of Earth for Heaven, muſt own all indecent grief to be the effect of his own loſs and reſentment; and not at all of the others glory.</p>
+            <p>Indeed, if one to whom I was bound by any tye of Relation or Friendſhip had clos'd an impious Life (as is moſt uſual) with a wicked and deſpairing death; then I have too juſt reaſon to mourn for the de<g ref="char:EOLhyphen"/>ceaſed, eſpecially if I have been inſtru<g ref="char:EOLhyphen"/>mental, or acceſſary to the courſe of his impieties: I may then perhaps fondly hope to quench his flames by a Flood of Tears; but ſure they would be much bet<g ref="char:EOLhyphen"/>ter ſpent in waſhing away the guilt of our own ſins, and not in ſtriving to revoke the fixt unalterable Decrees of Heaven.</p>
+            <p>Now for thoſe who are under no ſuch apprehenſions, about the ſtate of the per<g ref="char:EOLhyphen"/>ſons Soul, whom they lov'd; but have good and ſufficient grounds to reckon, up<g ref="char:EOLhyphen"/>on its Eternal bliſs; I muſt confeſs, I
+<pb n="14" facs="tcp:37723:11"/>know not by what name to call their un<g ref="char:EOLhyphen"/>accountable trouble; they cannot ſurely grieve, that their friend has obtain'd that Crown of Glory which it was his whole Study and buſineſs to preſs for<g ref="char:EOLhyphen"/>ward to; a Crown ſo infinitely more glo<g ref="char:EOLhyphen"/>rious, than all the varniſht greatneſs of this life, that it bears not the leaſt con<g ref="char:EOLhyphen"/>ceivable proportion to it. A Crown, of which this deceas'd young Lady had an anticipating Viſion in her ſickneſs, &amp; ſuch lively apprehenſions in her health, <hi>That by patient continuing in well doing, ſhe made it evi<g ref="char:EOLhyphen"/>dent, That ſhe ſought only for glory, honour and immortality,</hi> and has now, (I doubt not) <hi>obtain'd Eternal Life.</hi>
+            </p>
+            <p>I could eaſily enlarge on this ſecond head of diſcourſe, but deſigning it ra<g ref="char:EOLhyphen"/>ther as an introduction to what follows, and to ſhew what grounds we have to obey the Prophets injunction, <hi>not to weep, nor, mourn, tho' we have loſt the deſire of our Eyes:</hi> And becauſe I knew this a moſt ſeaſona<g ref="char:EOLhyphen"/>ble Topick, when ſo many of this young Ladies Friends and Relations are preſent; I cannot in Juſtice to a moſt devout young Virgin, and (I had almoſt ſaid)
+<pb n="15" facs="tcp:37723:11"/>in charity to all that hear me, forbear my weak endeavours, to make the ſubject I have inſiſted on, pertinent and uſeful, upon her account to Strangers.</p>
+            <p n="3">3. And therefore I ſhall in the third and laſt place, by a particular applicati<g ref="char:EOLhyphen"/>on to the ſubject before us, ſhew what ſtrong and violent temptations we have, to unbounded ſorrow, <hi>if the word of the Lord, had not come unto us alſo, and ſaid, that we ſhould neither weep, nor mourn, neither ſhould our Tears run down.</hi>
+            </p>
+            <p>The departed Virgin Saint, the eleva<g ref="char:EOLhyphen"/>ted ſubject of this ſad ſolemnity, had not attain'd to the age of fourteen Years, when the Angel of the Lord, found her fit for Heaven, and therefore took her away in the blooming of her perfections; to preſent her a ſpotleſs, glorious Soul to his, and her great Lord and Maſter. And perhaps it may raiſe admiration in ſome, to think, what can be ſaid of a perſon ſo young, as to need a caution a<g ref="char:EOLhyphen"/>gainſt immoderate Grief, before we dare to attempt her Character. I am not ig<g ref="char:EOLhyphen"/>norant, how uſual it is, on theſe occaſi<g ref="char:EOLhyphen"/>ons to talk Hyperbolically, and to mag<g ref="char:EOLhyphen"/>nifie
+<pb n="16" facs="tcp:37723:12"/>the ſmalleſt glimmerings of virtue, into the bulk of perfect, and ſolid habits; but I muſt reckon my ſelf ſecure from any, danger of out-ſtripping my Subject, as ſhe was, from being equal'd by any competitor of her Years, in the paths of Religion and Virtue: And I have juſt reaſon to fear falling far ſhort, in the Deſcription of her Divine Excellencies, which nothing, but being a conſtant witneſs of them, both in her health and ſickneſs, could enable me to diſplay tole<g ref="char:EOLhyphen"/>rably, or give any real and juſt <hi>Idea</hi> of them.</p>
+            <p>And to begin with thoſe, which were, and which ſhe thought, leſs properly her own. Nor ſhould be mention'd at all, if her circumſtances, as a Perſon of qua<g ref="char:EOLhyphen"/>lity, and a ſtranger, did not ſeem to ex<g ref="char:EOLhyphen"/>tort it.</p>
+            <p>She had the advantage of an honoura<g ref="char:EOLhyphen"/>ble parentage, both by her Father and Mo<g ref="char:EOLhyphen"/>ther; by him, being the Grandehild of the late Lord Arch Biſhop of <hi>Armagh,</hi> and Primate of all <hi>Ireland.</hi> And by her, Grand<g ref="char:EOLhyphen"/>child to the late Lord Viſcount <hi>Charlemont</hi> of <hi>Ireland:</hi> Known beſt in his own Coun<g ref="char:EOLhyphen"/>try,
+<pb n="17" facs="tcp:37723:12"/>by the inſeparable <hi>Epithet</hi> of The good Lord <hi>Charlemont.</hi> This noble deſ<g ref="char:EOLhyphen"/>cent ſhe yet made much more ſo, by ad<g ref="char:EOLhyphen"/>ding many New Virtues to thoſe which are hereditary to both thoſe Families. She was born to a very plentiful Fortune, which I name, merely to ſhew, that ſhe was never once exalted with the thoughts of it: And tho' it has been for ſome time, much at her own diſpoſal, ſhe deſir'd to be diſtinguiſh'd by it, no other way than in taking very frequent opportunities of doing good; and I have never obſerv'd her more chearful on any occaſion, than when it came in her way, to give Alms to the poor.</p>
+            <p>I ſhall add to theſe exterior qualities, that of a Body moſt perfectly beautiful; adorn'd with ſuch and ſo many delightful Elegancies, that <hi>I</hi> think, very few of her Years could pretend to be her Paralles, and wholly without any of thoſe Arts; and Affectations, by which too many fancy, they improve their Makers Han<g ref="char:EOLhyphen"/>dywork: and yet ſo far was ſhe from aſ<g ref="char:EOLhyphen"/>ſuming any thing to her ſelf, upon the ſcore of this or any other endowment,
+<pb facs="tcp:37723:13"/>that <hi>I</hi> never heard any one mention'd as her Rival, to whom ſhe did not heartily and readily ſubmit. Nor was ſhe ever pleas'd, (that <hi>I</hi> ſaw) with thoſe inſinua<g ref="char:EOLhyphen"/>ting impertinencies, ſo powerful upon many others, of being told, that ſhe was extraordinary handſome. No, all her care and ſollicitude about her Body, was to make it <hi>a Temple fit for the reception of the Holy Ghoſt.</hi> But <hi>I</hi> dwell too long on theſe outward tranſient accompliſhments, when ſo many internal excellencies deſerve a more particular and ſuitable <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>arge<g ref="char:EOLhyphen"/>ment, than <hi>I</hi> am able to give them.</p>
+            <p>Her Wit was great and ſolid: Not ſub<g ref="char:EOLhyphen"/>ject to thoſe flaſhes of Repartee and Ral<g ref="char:EOLhyphen"/>lery, which ſome young Ladies eſteem to be the Abſtract and ſum of all ingenuity, and place their whole endeavours to gain a pert, canting Faculty, which when ob<g ref="char:EOLhyphen"/>tain'd, makes them deſpis'd and hated. But hers, was like that of her Saviour, and it was all laid out on that ſaving knowledg, how to <hi>grow in Wiſdom, and Piety, and Favour with God and Man.</hi>
+            </p>
+            <p>To her God ſhe never neglected her Duty; for beſides frequent occaſional de<g ref="char:EOLhyphen"/>votions,
+<pb facs="tcp:37723:13"/>ſhe paid a conſtant Sacrifice of Prayers and Praiſes, Morning and Even<g ref="char:EOLhyphen"/>ing to her Creator: Nor was it a duty perform'd only for cuſtom, and form's ſake, as it is by many at her Years, not ſenſible of better motives; but having the advantages of an excellent example and education, Her devotions were all Solemn, Fervent and ſerious; and it was her con<g ref="char:EOLhyphen"/>ſtant cuſtom, after having pour'd out her Soul to God in Prayer, to read the Pſalms, and Leſſons, and publick Service of the day, before she addreſs'd her ſelf to any other employment.</p>
+            <p>And then, ſhe did not apply her ſelf to thoſe diverſions, which are the uſual en<g ref="char:EOLhyphen"/>tertainments of her Years, and her For<g ref="char:EOLhyphen"/>tune: But the greateſt part of her time was divided, between her Book and her Needle. And 'tis ſtrange to obſerve her choice of Authors, being not reſtrain'd from the uſe of any, except ſuch as were ſinful. But her Piety carried her prin<g ref="char:EOLhyphen"/>cipally to the peruſal of Religious and moral Books, in theſe ſhe buſied her ſelf with the greateſt pleaſure, and (I think) never had the patience to read through
+<pb facs="tcp:37723:14"/>one Play, or Romance, tho' ſufficiently qualified to apprehend all that was witty and pleaſant, and to diſtinguiſh what was uſeful in them.</p>
+            <p>This fixt and conſtant employment of her time, had begot in her ſuch due and lively apprehenſions of the Majeſty of God, that ſhe fear'd no evil in competition with that, of committing any wilfull offence againſt him. She had almoſt a natural an<g ref="char:EOLhyphen"/>tipathy to Lying, nor was her paſſion a<g ref="char:EOLhyphen"/>gainſt any perſon ever rais'd ſo high, as when ſhe was provok'd by being told a palpable and impudent Lye. She had an equal averſion to the Epidemical ſin of railing, and could not with any patience endure to hear another ſecretly and inju<g ref="char:EOLhyphen"/>riouſly traduc'd, and ever would extenu<g ref="char:EOLhyphen"/>ate what was hardly ſaid, if the caſe could bear it. Such a veneration ſhe had for the Name of God, that, as I never heard her ſpeak with the leaſt ſhadow of Irreverence, in matters relating to him, ſo I am ſure, ſhe never had the leaſt reverence for any, whom ſhe thought guilty of that preſum<g ref="char:EOLhyphen"/>ption. And as it was ſcarce poſſible at her Years, to have a more perfect knowledg of
+<pb facs="tcp:37723:14"/>the duty ſhe ow'd to her Maker, ſo ſhe was no leſs ſcrupulouſly careful in obſerving it, allowing for humane infirmities: And thus much for her Duty to God.</p>
+            <p>As for her obedience to the Commands of the ſecond Table; never any ſhew'd it more intirely, and more chearfully: Since the Death of her Father (<note n="*" place="margin">Major <hi>Marget<g ref="char:EOLhyphen"/>ſon</hi> kill'd at the firſt Siege of <hi>Lime<g ref="char:EOLhyphen"/>rick.</hi>
+               </note> who loſt his Life not long ago in the defence of his Reli<g ref="char:EOLhyphen"/>gion, and Country in <hi>Ireland</hi>) her Mother has reap'd all the ſolid bene<g ref="char:EOLhyphen"/>fits of an unerring duty: And as she never diſputed her Commands, ſo ſhe ſhew'd her obedience to be the effect of choice, and not conſtraint; by following chiefly the Pious preſident of a diſcreet and virtuous Mother. And ſhe exerted all the Powers of her Soul, to endeavour the comforting her afllicted Mother, when any trouble had befallen, or any Melancholy had ſeiz'd her. So true a Comforter ſhe was, that I doubt her Mother will think the in<g ref="char:EOLhyphen"/>junction of my Text, a very hard ſaying, and who can bear it, not to burſt into Floods of Tears, <hi>when the deſire of her Eyes and the joy of her Soul is raviſh'd from her.</hi>
+            </p>
+            <pb facs="tcp:37723:15"/>
+            <p>I ſhall not need to ſay that ſhe never was immodeſt, even in a Thought; for I always look'd upon her, as approaching very near a ſtate of innocence: And as in her recol<g ref="char:EOLhyphen"/>lections on her death Bed, ſhe ſaid, ſhe hop'd, that ſhe never had done an injury to any Body: So I am confident, ſhe never admitted one thought unworthy of her ſelf: In ſhort; to ſpeak of her general de<g ref="char:EOLhyphen"/>meanour, let it ſuffice to ſay that ſhe was Affable, Civil, and courteous to all: And that, as ſhe never willingly diſoblig'd the meaneſt; ſo ſhe never was guilty of a com<g ref="char:EOLhyphen"/>plaiſance to the greateſt, which had the leaſt appearance of criminal or ſinful. And, having ſaid thus much imperfectly, of the excellencies of her Life, I ſhall pre<g ref="char:EOLhyphen"/>ſume to detain you a little longer, in the moſt uſeful exemplary paſſages of her Death.</p>
+            <p>Oh! That it were as eaſy to imitate her, as it is, never to forget her. We muſt all ſooner or later paſs the ſame way, how happy, if with the ſame innocence, and reſignation of mind? She ſicken'd juſt a week before ſhe died; and tho', all that time ſhe lay under the terrible pains, of a
+<pb facs="tcp:37723:15"/>Fever and a Pleuriſie; yet not one word eſcap'd from her, to betray the leaſt mur<g ref="char:EOLhyphen"/>muring or impatience. But in her ſeve<g ref="char:EOLhyphen"/>reſt Agonies, had always that Heavenly Ejaculation; My God, my God look upon me: And when ever exhorted to reſign her ſelf, to the will of the Almighty, with what an aſtoniſhing chearfulneſs did ſhe do ſo, and would ſay, <hi>I put my trust in thee O Lord! Into thy Hands O God, I put my ſelf.</hi>
+            </p>
+            <p>One thing very remarkable in her beha<g ref="char:EOLhyphen"/>viour I cannot omit: Upon her firſt fall<g ref="char:EOLhyphen"/>ing ill, ſhe deſir'd moſt ardently to receive the bleſſed Sacrament (the reaſon and end of its inſtitution, with the requiſite prepa<g ref="char:EOLhyphen"/>rations, ſhe underſtood clearly) but her Diſtemper growing violently upon her, gave me ſome cauſe to fear, that ſhe might not have an intermiſſion of pain, to receive it with all neceſſary devotion; Yet, how wonderfully did the mercy of God, con<g ref="char:EOLhyphen"/>cur with her moſt Holy deſire? So far, that tho' in the midſt of her torments, ſhe never once groan'd, during the time of the Celebration; but receiv'd it, with ſo much piety, ſuch Heavenly aſpirations of Soul; that ſure, the Symbolical Body of our Sa<g ref="char:EOLhyphen"/>viour,
+<pb facs="tcp:37723:16"/>was never a Gueſt to greater purity, or to more paſſionate Holy deſires: And when it was finiſh'd, ſaid, now I hope, my God will have mercy upon my Soul; be<g ref="char:EOLhyphen"/>fore this I was under apprehenſions and doubts of danger. Her thoughts were al<g ref="char:EOLhyphen"/>moſt conſtantly fixt, in meditating on ano<g ref="char:EOLhyphen"/>ther life, and ſuch an humble ſenſe ſhe had of her own merits, or fitneſs for that ſtate, that, when ſhe ask'd one who attend<g ref="char:EOLhyphen"/>ed her, whether they thought ſhe ſhould be receiv'd into Heaven? And being an<g ref="char:EOLhyphen"/>ſwer'd yes: ſhe had no reaſon to doubt, or to that purpoſe: Oh (ſhe replied) I hope the Lord will be merciful, tho' I be unworthy.</p>
+            <p>I frequently diſcours'd to her of her diſ<g ref="char:EOLhyphen"/>poſition to die, if God ſhould ordain that ſickneſs for her laſt: But O! What Hea<g ref="char:EOLhyphen"/>venly, what religious, what more than human anſwers have I receiv'd from that departed Saint; that ſhe ſaw nothing in the World that could tempt her to a wiſh to live in it; that ſhe was happy being now to be deliver'd from a wicked and falſe World: (which was her own fre<g ref="char:EOLhyphen"/>quent expreſſion) and ſo lively a Senſe ſhe
+<pb facs="tcp:37723:16"/>had, of the joys of Heaven, that ſhe told me, they had made her in love with dying, as a ſure and ſudden method of inſtating her in glory.</p>
+            <p>It was wonderful to ſee how all along ſhe ſuppreſs'd her Groans and Sighs, leſt ſhe might give diſturbance to thoſe about her, who had too ſad reaſon to be con<g ref="char:EOLhyphen"/>cern'd, and till her laſt day, would beg of her neareſt Relations, to keep out of her Chamber: being more ſenſibly afllicted with their ſorrows, than her own ſuffer<g ref="char:EOLhyphen"/>ings.</p>
+            <p>But when ſhe found the time of her Death draw near (for ſhe was ſenſible to the moment of her diſſolution) with what eager embraces did ſhe claſp, her almoſt dying Mother, and with her lateſt Breath, beg'd earneſtly of her not to grieve, or be afllicted for her, for ſhe was happy. And obſerving the Tears to fall from her Mo<g ref="char:EOLhyphen"/>thers Cheeks; ſhe then, tho' in the Agonies of Death, yielded to a filial Sympathy, and it was the only time of her ſickneſs that ſhe let fall any Tears from her own Eyes, leſt ſhe should be thought repining, or impatient; but ſhe quickly ceas'd, and
+<pb facs="tcp:37723:17"/>repeats her dying requeſts to her belov'd Mother, that ſhe would forbear to grieve for her, knowing, how infinitely through Gods mercy, she should be a Gainer by the change. And here the Scene grows too ſad and tragical for any deſcription; I have not words, and if I had, I am not a<g ref="char:EOLhyphen"/>ble, nor unconcern'd enough to repreſent her in her laſt expiring Gaſps. I can only ſay, she reſign'd her Soul, with a moſt pious chearfulneſs, with an humble Holy confidence, into the Hands of a moſt faith<g ref="char:EOLhyphen"/>ful and merciful Mediatour, who I doubt not, has embrac'd and bleſs'd it, and en<g ref="char:EOLhyphen"/>throned it in one of the moſt glorious manſions of Heaven.</p>
+            <p>Let us Chriſtians endeavour to lead the innocent Holy Life of this extraordinary example; and then we ſhall not fail to <hi>die the Death of this Righteous Virgin, and that our laſt end, may be like hers. Which God grant,</hi> &amp;c.</p>
+            <trailer>The END.</trailer>
+            <pb facs="tcp:37723:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
